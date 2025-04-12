@@ -80,8 +80,7 @@ studysync/
 - Click "Fetch Users" to view all students
 - Click "Fetch Courses" to view all courses
 
-![image](https://github.com/user-attachments/assets/f36765ef-e359-441d-9e76-5167e1d4080d)
-![image](https://github.com/user-attachments/assets/e7dc98b4-20ec-4c73-ba71-36de368c4e45)
+![image](https://github.com/user-attachments/assets/5c3dc308-6cbe-43a4-9372-32dcbcd6f6fa)
 
 ## License
 
