@@ -82,6 +82,3 @@ studysync/
 
 ![image](https://github.com/user-attachments/assets/5c3dc308-6cbe-43a4-9372-32dcbcd6f6fa)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
